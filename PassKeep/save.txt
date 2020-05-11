@@ -1,0 +1,3 @@
+ssksk;@USERNAME:sksk;@PASSWORD:sksk.
+deep123;@USERNAME:deep123;@PASSWORD:deep122.
+napster;@USERNAME:napster;@PASSWORD:napster.

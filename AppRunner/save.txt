@@ -1,0 +1,1 @@
+C:/xampp/xampp_start.exe,C:/emu8086/emu8086.exe,,
